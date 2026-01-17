@@ -76,3 +76,4 @@ The Random Forest model is configured with class_weight='balanced' to better det
 Recall (Delay Detection): ~48% (on 100k row dataset)
 
 Overall Accuracy: ~74-82% (depending on dataset size)
+<img width="364" height="197" alt="accuracy report of flight delay" src="https://github.com/user-attachments/assets/0f620cee-6fac-47d8-bd1a-b99291c18f86" />
